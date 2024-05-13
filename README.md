@@ -5,7 +5,7 @@
 - 📫 How to reach me: joezie7@gmail.com
 - 😄 Pronouns: Him/His
 - ⚡ Fun fact: Recent studies show that around 70% of coding jobs have nothing to do with technology at all
-+ About me:
++ 😄 About me:
   I am a passionate data scientist and AI enthusiast. My background in process engineering combined with my MSc in Data Science has fueled my curiosity for solving complex problems using machine learning and computer vision.
 
 🌟 My Interests:
