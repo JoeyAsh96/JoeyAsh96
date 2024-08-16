@@ -1,0 +1,6 @@
+The project in this section is an NLP exercise that involved experimentally developing a small robust sentiment analysis system for predicting whether Android app reviews retreived from the Amazon website were positive, negative or neutral. 
+At the heart of this system is a classifier that can read into the nuances of written language after vectorisation, enabling it to predict the correct sentiment implied.
+This kind of application of Machine Learning has the ability to help companies enhance their understanding of customer views through classification, quantification and analysis of reviews.   
+The project code is split into two jupyter notebooks for Python code: 1. CW2 - Training, contains the pre-processing of textual data (the reviews), and training and performance comparison of different classifiers.
+                                                                      2. CW2- Testing, contains the code for testing the best performing classifiers on the test reviews. The notebook also shows the visualisation of the results, identifying the most popular Android app.
+.
