@@ -1,0 +1,7 @@
+- In this short NLP project, the Python NLTK library is used to learn common products mentioned by customers Amazon reviews for games sold by the retailer. 
+- The project is a good NLP exercise to follow up on the sentiment analysis project posted previously, titled "Sentimenet Analysis...".
+- On this work, the reviews are analysed to identify key products associated with certain reviews.
+- This kind of ML task can be used by businessess to understand what specific attribute of their services or products is mentioned in negative or positive reviews.
+- In the previous NLP project, the task was to find sentiment polarity of reviews. Subsequently the code produced in this code could continue further by intricately 
+  delving into the negatively classified reviews to show what common features are disliked by customers.
+- The exercise is broken down to 4 parts of Python code (Questions 1 to 4), and a final report titled Question 5. 
