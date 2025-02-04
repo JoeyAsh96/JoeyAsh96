@@ -13,10 +13,3 @@
 - AI Software Development
 
 🔗 Connect with me on LinkedIn: Joseph Zinhle Moyo (https://www.linkedin.com/in/joseph-moyo-04b49b168?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh2bEUP3zQ6O9%2BLFvRyoG%2Fw%3D%3D)
-
-Looking forward to sharing my projects and collaborating with the GitHub community! 🚀
-
-<!---
-JoeyAsh96/JoeyAsh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
